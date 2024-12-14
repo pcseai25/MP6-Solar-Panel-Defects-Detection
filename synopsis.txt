@@ -1,0 +1,9 @@
+Synopsis: Solar Panel Defects Detection Using Computer Vision and IoT
+
+This project aims to revolutionize the solar panel manufacturing process by automating defect detection using advanced computer vision techniques integrated with IoT. In the conventional production process, manual inspections are prone to human error, time-consuming, and inefficient at detecting micro-level defects such as cracks, dead cells, and scratches. These undetected issues can lead to reduced energy efficiency and potential failures in the field.
+
+The proposed solution uses Convolutional Neural Networks (CNNs) to identify various solar panel defects in real-time, ensuring high accuracy and faster detection. A vast dataset of solar panel images, both defective and non-defective, is utilized to train the model. Once trained, the system performs automated monitoring and defect identification with real-time feedback via a dashboard, empowering manufacturers to make quick, data-driven decisions.
+
+The system's ability to detect linear, tree, and point cracks, cell scratches, poor soldering, and dark spots ensures a more reliable quality assurance process. With continuous model retraining, the solution improves over time, offering scalability and robustness to meet increasing production demands.
+
+By implementing this automated defect detection system, manufacturers can significantly enhance the quality, efficiency, and scalability of solar panel production, leading to higher energy efficiency and reduced costs.
